@@ -45,21 +45,6 @@ The business needs to understand which product categories and sub-categories gen
 3. **Compare regional sales and profit performance** to identify geographical improvement opportunities.
 
 ---
-
-
-## 📁 Project Files
-
-1. [Python Analysis Notebook](./retail_sales_analysis.ipynb)
-
-2. [Power BI Report](./Retail_Sales_Profit_Analysis.pbix)
-
-3. [PDF Report](./Retail_Sales_Profit_Analysis.pdf)
-
-4. [Business Recommendations](./Business_Recommendations.xlsx)
-
-5. [Loss-Making Combinations Chart](./top_10_loss_making_combinations.png)
-
-
 ---
 
 ## ⚠️ Limitations
